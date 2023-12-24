@@ -5,7 +5,7 @@ If you have problem when read code or do not understand what the code are doing 
 
 Facebook: https://www.facebook.com/nhatminh.nguyenquang.566
 
-Linked: https://www.linkedin.com/in/nguy%E1%BB%85n-quang-nh%E1%BA%ADt-minh-ba471a213/
+Linkedin: https://www.linkedin.com/in/nguyen-quang-nhat-minh/
 
 Gmail: hvmnhatminh@gmail.com
     or minhnqnde160634@fpt.edu.vn
