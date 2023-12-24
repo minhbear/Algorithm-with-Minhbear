@@ -1,0 +1,1 @@
+My explain solution in: https://leetcode.com/problems/game-of-life/solutions/4451774/easy-solution-for-handle-in-typescript-beats-92-71-of-users-with-typescript/
